@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+![Imagen del Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
